@@ -1,4 +1,4 @@
-package SearchTests;
+package searchTests;
 
 import org.junit.jupiter.api.Test;
 
